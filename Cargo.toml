@@ -8,5 +8,7 @@ version = "0.1.0"
 [dependencies]
 anyhow = "1"
 itertools = "0.10"
+owo-colors = "3"
+rand = "0.8"
 rustyline = "9"
 structopt = "0.3"
